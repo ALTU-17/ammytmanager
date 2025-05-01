@@ -1,16 +1,22 @@
-# ammytmanager
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠 Task for Flutter Developer —
+AuthorityMart Media
+Objective:
+Build a basic native YouTube download manager in Flutter with the following requirements:
+✅ Task Requirements
+1. Platform: Flutter (Android support required; iOS is optional but appreciated).
+2. Functionality:
+○ Allow user to paste a YouTube video URL.
+○ Fetch video metadata (title, thumbnail, resolution options).
+○ Let the user select resolution and download the video.
+○ Show download progress.
+3. Storage:
+○ Save the downloaded video in a custom folder inside device storage.
+○ Ensure it handles permissions properly.
+4. UI Expectations:
+○ Clean, simple UI (no need for polished visuals).
+○ Show list of downloaded videos with play option.
+5. Constraints:
+○ You can use open-source packages like youtube_explode_dart or native
+platform-specific code where needed.
+○ Avoid hardcoded links. Input must come from user.
+○ Make sure app handles permission issues or unsupported videos gracefully.
