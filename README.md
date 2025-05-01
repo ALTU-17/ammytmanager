@@ -1,5 +1,4 @@
 🛠 Task for Flutter Developer —
-AuthorityMart Media
 Objective:
 Build a basic native YouTube download manager in Flutter with the following requirements:
 ✅ Task Requirements
